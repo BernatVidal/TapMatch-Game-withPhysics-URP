@@ -2,7 +2,6 @@
 A simple mobile tap match game, with some physics related. Developed in under 18 hours as a test.
 
 Gameplay video (download to watch it):
-
 ![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4)
 
 !! IMPORTANT !!
