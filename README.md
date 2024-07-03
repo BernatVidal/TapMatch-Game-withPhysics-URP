@@ -14,3 +14,13 @@ Multiple pooling-handling system is used to improve overall performance of the g
 The algorithm used to detect Matches is a simplified Deep-First Search algorithm.
 
 Matchable popping animations and user punctuation feedback are added to improve game enjoyability.
+
+--> Main game classes:
+
+--> To Play:
+
+Just set the game settings you want on the GameManager:
+
+
+
+And have fun!
