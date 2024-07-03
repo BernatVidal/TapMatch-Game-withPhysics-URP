@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d86c98fa05862f943af9fdaa72247b14, type: 3}
+  m_Name: YellowMatchable
+  m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript
+  matchableNameID: Yellow
+  matchableSprite: {fileID: -5177388603050735206, guid: cc35afd292fc349128b36a291fb3a165, type: 3}
+  matchableColor: {r: 0.9811321, g: 0.9419152, b: 0.254539, a: 1}
+  points: 1
