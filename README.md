@@ -1,5 +1,5 @@
 # TapMatch-Game-withPhysics-URP
-A simple mobile tap match game, with some physics behind.
+A simple mobile tap match game, with some physics related. Developed within 18 hours.
 
 !! IMPORTANT !!
 To set it up properly, you will need to first create a Unity 2D Template with URP and then download the repo
