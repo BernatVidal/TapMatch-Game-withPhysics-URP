@@ -1,6 +1,9 @@
 # TapMatch-Game-withPhysics-URP
 A simple mobile tap match game, with some physics related. Developed in under 18 hours as a test.
 
+Gameplay video (download to watch it)
+![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4)
+
 !! IMPORTANT !!
 To set it up properly, you will need to first create a Unity 2D Template with URP and then download the repo
 !!!!!!!!!!!!!!!
@@ -32,5 +35,3 @@ Just set the game settings you want on the GameManager:
 And have fun!
 
 ![gameplay image](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/gameplayImg.png?raw=true)
-
-![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4)
