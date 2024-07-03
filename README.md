@@ -33,4 +33,4 @@ And have fun!
 
 ![gameplay image](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/gameplayImg.png?raw=true)
 
-![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4)
+![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4?raw=true)
