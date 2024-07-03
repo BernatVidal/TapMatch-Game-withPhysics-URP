@@ -21,14 +21,16 @@ Matchable popping animations and user punctuation feedback are added to improve 
 
 --> Main game classes:
 
-![alt text](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/mainClassesUML.png?raw=true)
+![Main Classes](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/mainClassesUML.png?raw=true)
 
 --> To Play:
 
 Just set the game settings you want on the GameManager:
 
-![alt text](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/setupPlay.png?raw=true)
+![Game manager setup](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/setupPlay.png?raw=true)
 
 And have fun!
 
-![alt text](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/gameplayImg.png?raw=true)
+![gameplay image](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/gameplayImg.png?raw=true)
+
+![gameplay_video](https://github.com/BernatVidal/TapMatch-Game-withPhysics-URP/blob/main/tapmatch_BernatV_gameplay.mp4)
