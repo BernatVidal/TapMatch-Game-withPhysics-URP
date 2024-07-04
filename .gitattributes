@@ -1,0 +1,3 @@
+// Avoid Shaderlab as main languaje on Repository
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
